@@ -908,16 +908,4 @@ if search_query:
             )
 ```
 
-# IMPORTANT
 
-Replace ONLY your current `# UI` section with this upgraded version.
-
-Do NOT remove:
-
-* parse_ingredients()
-* analyze_risks()
-* semantic_search()
-* rag_generate_summary()
-* FAISS code
-* dataset loading code
-* SAFE_LIMITS
